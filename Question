@@ -1,0 +1,15 @@
+Suppose, that we want to define a class to implement the time of day in a program.
+Because a clock gives the time of day, let us call this class clockType.
+Furthermore, to represent time in computer memory, we use three int variables: one to
+represent the hours, one to represent the minutes, and one to represent the seconds.
+Suppose these three variables are: int hr; int min; int sec;
+We also want to perform the following operations on the time:
+1. Set the time(seconds, minutes, hours). (default Constructor and parameterized
+constructors)
+2. Print the time.
+3. Increment the time by one second.
+4. Increment the time by one minute.
+5. Increment the time by one hour.
+6. Compare the two times for equality.
+● With manual timings
+● With passed object’s timings
