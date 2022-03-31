@@ -1,0 +1,8 @@
+G:\mega\semmester2\oop\week3\oop\task\bin\Debug\task.exe.config
+G:\mega\semmester2\oop\week3\oop\task\bin\Debug\task.exe
+G:\mega\semmester2\oop\week3\oop\task\bin\Debug\task.pdb
+G:\mega\semmester2\oop\week3\oop\task\obj\Debug\task.csproj.AssemblyReference.cache
+G:\mega\semmester2\oop\week3\oop\task\obj\Debug\task.csproj.SuggestedBindingRedirects.cache
+G:\mega\semmester2\oop\week3\oop\task\obj\Debug\task.csproj.CoreCompileInputs.cache
+G:\mega\semmester2\oop\week3\oop\task\obj\Debug\task.exe
+G:\mega\semmester2\oop\week3\oop\task\obj\Debug\task.pdb
